@@ -1,0 +1,3 @@
+New York, 30, Sunny
+San Antonio, 20, Clouds
+Boston, 12, Rains
